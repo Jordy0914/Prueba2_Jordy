@@ -18,6 +18,8 @@ public class ManejadorEstudiante extends Controlador{
      GUIAdminEstudiante gUIAdminEstudiante;
      GUIEstudiante gUIEstudiante;
      PanelListado panelListado;
+     
+     //evander
 
     public ManejadorEstudiante(RegistroEstudiantes registro, GUIAdminEstudiante gUIAdminEstudiante) {
         this.registro = registro;
